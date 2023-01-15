@@ -1,1 +1,1 @@
-<h1 text-align: center> Olá terráqueos </h2>
+<h1 text-align: "center"> Olá terráqueos </h2>
