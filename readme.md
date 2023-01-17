@@ -7,6 +7,7 @@
 <div>
     <p align="center"> Tecnologias conhecidas e em melhoria contínua 
         <br>
+        <br>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=js,html,css,git">
         </a>
