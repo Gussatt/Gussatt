@@ -5,7 +5,7 @@
 </div>
 
 <div>
-    <p align="center"> Tecnologias conhecidas e em melhoria contínua 
+    <p align="center"> Tecnologias conhecidas e em melhoria contínua:
         <br>
         <br>
         <a href="https://skillicons.dev">
