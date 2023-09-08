@@ -1,4 +1,4 @@
-<h1 text-align: "center"> Olá terráqueos </h2>
+<h1 text-align: "center"> Olá terráqueos </h1>
 
 <div align="center">
     <p> Um dev em começo de carreira, buscando novas oportunidades e novos conhecimentos.</p>
@@ -9,7 +9,7 @@
         <br>
         <br>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,html,css,git">
+            <img src="https://skillicons.dev/icons?i=js,html,css,git,mysql">
         </a>
     </p>
 </div>
